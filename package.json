@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/jhjonathanlee/restful-todolist-api/issues"
   },
-  "homepage": "https://github.com/jhjonathanlee/restful-todolist-api#readme"
+  "homepage": "https://github.com/jhjonathanlee/restful-todolist-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
